@@ -65,7 +65,7 @@ header {
 }
 
 .our-mission-background {
-    background-image: url("./imgs/img-mission-background.jpg");
+    background-image: url("./tea cozy/imgs/img-mission-background.jpg");
     height: 700px;
     width: 1200px;
     display: flex;
@@ -112,7 +112,7 @@ header {
 }
 
 .locations {
-    background-image: url("./imgs/img-locations-background.jpg");
+    background-image: url("./tea cozy/imgs/img-locations-background.jpg");
     height: 500px;
     width: 1200px;
     margin-left: auto;
